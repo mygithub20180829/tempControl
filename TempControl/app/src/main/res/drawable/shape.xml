@@ -1,0 +1,4 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#D8BFD8"/>  //背景颜色
+    <corners android:radius="@android:dimen/notification_large_icon_width"/>   //圆角弧度
+</shape>
